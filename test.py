@@ -64,7 +64,10 @@ print(result)
 #딕셔너리로 분리후 인덱싱
 '''
 
+'''
 alist = ['a1','a2','a3']
 blist = ['b1','b2','b3']
 for i,(a,b) in enumerate(zip(alist,blist)):
     print(i,a,b)
+#인덱싱은 i a,b는 그룹화
+'''
